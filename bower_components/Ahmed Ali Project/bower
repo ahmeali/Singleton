@@ -29,13 +29,3 @@ publishing a package
     git init
     touch README.me
     touch .gitignore
-    git add -A
-    git commit -m "message"
-    git remote add origin https://github.com/ahmeali/Singleton.git
-
-make a release 0.0.1
-    git tag 0.0.1
-    git push --tags
-
-making a bower register
-    bower register package_name git:url
