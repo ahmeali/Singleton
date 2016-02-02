@@ -1,0 +1,26 @@
+{
+  "name": "Defaults",
+  "homepage": "https://github.com/ahmeali/Singleton",
+  "authors": [
+    "Ahmed Mohamed Abbas <ahmed2dawood3@yahoo.com>"
+  ],
+  "description": "this is the default way",
+  "main": "index",
+  "moduleType": [
+    "amd",
+    "node"
+  ],
+  "keywords": [
+    "ways",
+    "to",
+    "work"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
