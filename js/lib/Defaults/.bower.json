@@ -22,5 +22,16 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "version": "0.0.2",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "f0b581a12dd80cf014de6bce9e2a9499d4a5e290"
+  },
+  "_source": "git://github.com/ahmeali/Singleton.git",
+  "_target": "~0.0.2",
+  "_originalSource": "semi-frame",
+  "_direct": true
 }
