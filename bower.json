@@ -1,0 +1,23 @@
+{
+  "name": "Ahmed Ali Project",
+  "authors": [
+    "Ahmed Mohamed Abbas <ahmed2dawood3@yahoo.com>"
+  ],
+  "description": "Data and Other Security",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "/bowering/data/welcome",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9",
+    "bootstrap": "~3.3.6"
+  }
+}
